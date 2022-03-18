@@ -1,0 +1,8 @@
+djangobros_venv/
+django_blog/db.sqlite3
+django_blog/manage.py
+django_blog/django_blog/settings.py
+django_blog/django_blog/wsgi.py
+django_blog/django_blog/asgi.py
+django_blog/django_blog/__pycache__
+django_blog/blogs/__pycache__
